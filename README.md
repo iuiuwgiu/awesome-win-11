@@ -2,7 +2,8 @@
 Tools for Windows 11
 
 
-#BloatyNosy
-#ThisIsWin11
-#StartAllBack
-#ElevenClock
+# BloatyNosy
+# ThisIsWin11
+# StartAllBack
+# ElevenClock
+# FreeFileSync
